@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Venkatesh Reddy
+# 👋 Hey, I'm Venkateswar Reddy
 
 ### 🚀 Full Stack Developer @ BNP Paribas | Java • Spring Boot • TypeScript • Automation • AI
 
@@ -243,9 +243,9 @@ I'm particularly interested in building projects around:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=venkateswarreddy1403&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateswarreddy1403&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
