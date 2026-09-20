@@ -65,18 +65,19 @@ I'm passionate about technology and enjoy building software, solving problems, e
 
 ```text
 🎓 B.Tech — Computer Science & Engineering
-        │
-        ▼
-🏦 BNP Paribas — February 2025
-        │
-        ▼
-👨‍💻 Intern
-        │
-        ▼
-🚀 Full-Time Employee
-        │
-        ▼
-💻 Full Stack Developer
+                │
+                ▼
+        🏦 BNP Paribas
+        February 2025
+                │
+                ▼
+           👨‍💻 Intern
+                │
+                ▼
+       🚀 Full-Time Employee
+                │
+                ▼
+      💻 Full Stack Developer
 ```
 
 My experience spans multiple areas of software development, from **building frontend applications and automated tests to developing backend applications with Java and Spring Boot**.
@@ -91,7 +92,7 @@ I'm particularly interested in the intersection of:
 
 ### **Software Engineering × AI × Automation**
 
-Currently exploring:
+Exploring areas such as:
 
 * 🧠 Large Language Models
 * 🤖 AI Agents
@@ -118,11 +119,8 @@ Currently exploring:
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=venkateswarreddy1403&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateswarreddy1403&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=venkateswarreddy1403&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateswarreddy1403&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -130,13 +128,71 @@ Currently exploring:
 ## 🐍 Contribution Journey
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☕
+### ☕ Java & Spring Boot
+
+Backend applications built with:
+
+**Java • Spring Boot • REST APIs • JDBC • MySQL**
+
+### 🌐 Angular & Full Stack
+
+Web applications built with:
+
+**Angular • TypeScript • JavaScript • HTML • SCSS**
+
+### 🧪 Automation
+
+End-to-end automation using:
+
+**Playwright • Cypress • TypeScript • Cucumber • BDD**
+
+### 🤖 AI Experiments
+
+Exploring:
+
+**Python • LLMs • AI Agents • Automation**
+
+> **The projects section will keep growing as I learn, build and experiment.**
+
+---
+
+## 📚 Education
+
+### 🎓 Bachelor of Technology — Computer Science & Engineering
+
+**Kalasalingam Academy of Research and Education**
+
+**Graduated: 2025**
+
+---
+
+## 🤝 Let's Connect
+
+Interested in **Full Stack Development, Java, Spring Boot, Automation, AI and Developer Productivity?**
+
+<p align="center">
+
+<a href="https://github.com/venkateswarreddy1403">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/venkateswara-reddy-28aa23253/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Learn • Build • Automate • Innovate ⭐
+
+</p>
