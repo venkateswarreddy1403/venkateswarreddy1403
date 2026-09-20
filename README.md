@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Venkateswar Reddy
 
-### 🚀 Full Stack Developer @ BNP Paribas | Java • Spring Boot • TypeScript • Automation • AI
+### 🚀 Full Stack Developer @ BNP Paribas | Java • Spring Boot • Angular • TypeScript • Automation • AI
 
 > **Building software, automating the repetitive, and exploring what comes next.**
 
@@ -20,6 +20,7 @@ I enjoy solving problems, learning new technologies, and exploring how **AI can 
 * 🎓 **B.Tech in Computer Science & Engineering — 2025**
 * 🏫 Kalasalingam Academy of Research and Education
 * 💻 Hands-on experience across **Frontend, Automation & Backend**
+* 🌐 Building frontend applications with **Angular, TypeScript & JavaScript**
 * ☕ Currently deepening my expertise in **Java & Spring Boot**
 * 🧪 Passionate about **Test Automation & Quality Engineering**
 * 🤖 Exploring **AI, LLMs & AI-powered developer tools**
@@ -38,6 +39,7 @@ I enjoy solving problems, learning new technologies, and exploring how **AI can 
 
 ### 🌐 Frontend Development
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge\&logo=sass\&logoColor=white)
@@ -102,6 +104,7 @@ That journey continues to shape how I approach software:
 ```text
 Frontend
    │
+   ├── Angular
    ├── HTML
    ├── CSS / SCSS
    ├── JavaScript
@@ -181,7 +184,7 @@ The goal is to become stronger not just at writing backend code, but at understa
 I'm particularly interested in building projects around:
 
 * ☕ Java & Spring Boot
-* 🌐 Full Stack Applications
+* 🌐 Angular & Full Stack Applications
 * 🧪 Modern Automation Frameworks
 * 🤖 AI-powered Developer Tools
 * 🔄 Workflow Automation
@@ -243,9 +246,9 @@ I'm particularly interested in building projects around:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=venkateswarreddy1403&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateswarreddy1403&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -268,6 +271,14 @@ I'm particularly interested in building projects around:
 Backend applications focused on building strong foundations in:
 
 **Java • Spring Boot • REST APIs • JDBC • MySQL**
+
+---
+
+### 🌐 Angular & Full Stack Projects
+
+Modern web applications built using:
+
+**Angular • TypeScript • JavaScript • HTML • SCSS**
 
 ---
 
@@ -303,7 +314,7 @@ Exploring practical applications of:
 
 I'm always interested in connecting with people working on:
 
-**Full Stack Development • Java • Spring Boot • Automation • AI • Developer Productivity**
+**Full Stack Development • Angular • Java • Spring Boot • Automation • AI • Developer Productivity**
 
 <p align="center">
 
